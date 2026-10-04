@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-burgundy: #581c25;
+  --color-burgundy-dark: #3b1117;
+  --color-burgundy-light: #732631;
+  --color-gold: #e5a93e;
+  --color-gold-hover: #d49730;
+}
